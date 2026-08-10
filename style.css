@@ -1,3 +1,17 @@
 h1{
     color: rgb(95, 81, 96);
 }
+#Abhi{
+    color: cadetblue;
+    background-color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+    font-weight: 5px;
+}
+.Abhii{
+    color: chartreuse;
+    background-color: floralwhite;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-style: italic;
+}
