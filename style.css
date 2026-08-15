@@ -1,17 +1,25 @@
-h1{
-    color: rgb(95, 81, 96);
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
-#Abhi{
-    color: cadetblue;
-    background-color: black;
+html,body{
+    height: 100;
+    width: 100;
+}
+#Abhi{color: aliceblue;
+    background-color: rgb(30, 31, 67);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 40px;
-    font-weight: 5px;
+    font-size: 10;
+    font-style: italic;
+    font-weight: 5;
+
 }
 .Abhii{
-    color: chartreuse;
-    background-color: floralwhite;
+    color: aliceblue;
+    background-color: chartreuse;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 20px;
-    font-style: italic;
+    font-style: var(Gill);
+    font-size: 20;
+    font-weight: 2;
 }
